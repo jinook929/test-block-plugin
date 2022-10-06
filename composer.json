@@ -1,0 +1,7 @@
+{
+  "name": "madwell/madwell-acf-block-plugin",
+  "desciption": "Madwell ACF Blocks",
+  "type": "wordpress-plugin",
+  "require": {
+  }
+}
